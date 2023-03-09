@@ -77,3 +77,16 @@ public class Test1extends1 {
 	}
 
 }
+
+
+/*
+Output:
+303
+output accessing class K variable using extends
+400
+output of class M
+333
+output accessing class L variable using extends
+404
+444
+*/
