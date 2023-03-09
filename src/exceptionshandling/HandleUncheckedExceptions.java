@@ -35,3 +35,14 @@ public class HandleUncheckedExceptions {
 	}
 
 }
+
+/*
+Output:
+Program is started
+/ by zero
+null
+Program is in progress
+Program is completed
+
+*/
+
