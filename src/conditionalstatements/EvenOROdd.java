@@ -21,3 +21,7 @@ public class EvenOROdd {
 	}
 
 }
+
+/*
+Even number
+*/
