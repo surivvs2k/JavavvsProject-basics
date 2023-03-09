@@ -46,3 +46,12 @@ public class Overriding {
 	}
 
 }
+
+
+/*
+Output:
+10
+15
+20
+
+*/
