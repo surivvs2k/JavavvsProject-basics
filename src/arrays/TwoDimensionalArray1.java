@@ -22,7 +22,9 @@ public class TwoDimensionalArray1 {
 
 }
 
-/*10  15  20  
+/*
+Output:
+10  15  20  
 30  35  40  
 50  55  60  
 70  75  80  
