@@ -23,3 +23,9 @@ public class IfConditions {
 	}
 
 }
+
+/*
+Output:
+ligible for vote
+Program exited
+*/
