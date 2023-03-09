@@ -25,3 +25,15 @@ public class ObjectArray {
 	}
 
 }
+
+/*
+Output
+
+100
+250.333
+Welcome
+A
+400
+666.66
+
+*/
