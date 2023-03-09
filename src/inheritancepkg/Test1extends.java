@@ -52,3 +52,14 @@ public static void main(String[] args) {
 
 	}
 }
+
+
+/*
+Output:
+output of class E
+300
+output of class F
+333
+output of class E using after extends at class F
+1000
+*/
