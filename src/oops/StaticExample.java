@@ -54,3 +54,18 @@ public class StaticExample {
 	}
 
 }
+
+
+/*
+Output:
+100
+this is m1 -- static method
+200
+this is m2 -- non static method
+********this is m3 non static method*****
+this is m1 -- static method
+this is m2 -- non static method
+333
+999
+
+*/
