@@ -54,3 +54,22 @@ public class StringMethods {
 	}
 
 }
+
+
+/*
+Output
+
+Welcome to Training
+********Equals**********
+false
+********EqualsIgnoreCase**********
+true
+********contains**********
+true
+false
+********substring**********
+Wel
+lco
+ome
+
+*/
