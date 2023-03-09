@@ -24,3 +24,11 @@ public class TryCatchExceptions {
 	}
 
 }
+
+
+/*
+Output:
+10
+This is finally block
+
+*/
