@@ -25,3 +25,13 @@ public class Swapping {
 	}
 
 }
+
+/*
+Output:
+Value of a is before swapping :10
+Value of b is before swapping :20
+Value of a is after swapping :20
+Value of b is after swapping :10
+Value of c is after swapping :10
+
+*/
