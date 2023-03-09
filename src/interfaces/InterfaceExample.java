@@ -38,3 +38,11 @@ public class InterfaceExample implements Testinter
 
 	
 }
+
+
+/*
+Output:
+10
+30
+10
+*/
