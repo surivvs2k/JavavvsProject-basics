@@ -23,5 +23,6 @@ public class EvenOROdd {
 }
 
 /*
+Output:
 Even number
 */
