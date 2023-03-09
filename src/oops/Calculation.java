@@ -64,3 +64,9 @@ public class Calculation {
 	}
 
 }
+
+
+/*
+Output:
+300
+*/
