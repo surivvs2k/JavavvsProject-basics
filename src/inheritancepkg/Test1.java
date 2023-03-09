@@ -47,3 +47,12 @@ public class Test1 {
 	}
 
 }
+
+
+/*
+Output:
+output of class A
+300
+output of class B
+333
+*/
