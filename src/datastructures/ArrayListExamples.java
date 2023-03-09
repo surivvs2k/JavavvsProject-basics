@@ -25,13 +25,21 @@ public class ArrayListExamples {
 		{
 			System.out.println(s);
 		}
-		
-		
-		
-
-
-
 
 	}
 
 }
+
+
+/*
+Output:
+5
+[Suri, Suriv, Surivv, Surivvs, Surivvss]
+Suri
+Suri
+Suriv
+Surivv
+Surivvs
+Surivvss
+
+*/
