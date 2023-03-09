@@ -43,3 +43,10 @@ public class FinalExample {
 	}
 
 }
+
+/*
+Output:
+40
+77
+88
+*/
