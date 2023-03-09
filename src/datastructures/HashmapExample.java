@@ -25,3 +25,14 @@ public class HashmapExample {
 	}
 
 }
+
+
+
+/*
+Output:
+{101=Suri, 102=Mini, 103=Yami}
+101  Suri
+102  Mini
+103  Yami
+
+*/
