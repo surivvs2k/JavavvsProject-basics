@@ -44,3 +44,17 @@ public class ArrayListExamples2 {
 	}
 
 }
+
+
+/*
+Output:
+Elements in array list :[Welcome, 10, 10.323, C]
+Number of elements in array list after inserting :5
+Elements in array list :[Welcome, 10, Training, 10.323, C]
+Number of elements in array list after inserting :6
+Elements in array list :[Welcome, 10, Training, 10.323, 1234, C]
+Elements in array list :[10, Training, 10.323, 1234, C]
+Elements in array list :[10, 10.323, 1234, C]
+Elements in array list :[10, Training, 10.323, 1234, C]
+
+*/
