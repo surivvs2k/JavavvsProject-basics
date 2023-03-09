@@ -18,3 +18,14 @@ public class Whileloop {
 	}
 
 }
+
+
+/*
+Output:
+2
+4
+6
+8
+10
+Program exited
+*/
