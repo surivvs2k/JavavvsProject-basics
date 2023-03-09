@@ -66,3 +66,17 @@ public class Employee0 {
 
 
 }
+
+/*
+Output:
+101
+krish
+22000
+11
+**********************
+202
+shikr
+44000
+22
+
+*/
