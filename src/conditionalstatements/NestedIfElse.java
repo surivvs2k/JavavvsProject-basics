@@ -39,3 +39,9 @@ public class NestedIfElse {
 	}
 
 }
+
+
+/*
+Output:
+Saturday
+*/
