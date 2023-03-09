@@ -42,3 +42,18 @@ public class ArrayExample1 {
 	}
 
 }
+
+
+/*
+Output
+
+a in array values:  40
+a in array values:  50
+***********************
+b in array values:  110
+b in array values:  120
+b in array values:  130
+b in array values:  140
+b in array values:  150
+
+*/
