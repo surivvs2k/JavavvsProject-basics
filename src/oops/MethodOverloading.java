@@ -65,3 +65,15 @@ public class MethodOverloading {
 	}
 
 }
+
+
+/*
+Output:
+sum of a+b :30
+sum of a+b :300
+sum of x+y+z :100
+sum of x+y :55.5
+Raj Tej
+Rama  Krishna
+Tarun marks are :Tarun 80 Varun marks are :Varun 90
+*/
