@@ -32,3 +32,10 @@ public class Overriding2 {
 	}
 
 }
+
+
+/*
+Output:
+Vehicle is running
+Bike is running
+*/
