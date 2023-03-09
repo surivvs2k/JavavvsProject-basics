@@ -20,3 +20,12 @@ public class Arrayexample3 {
 	}
 
 }
+
+/*
+Output
+3
+Welcome
+to
+Tirupati
+
+*/
