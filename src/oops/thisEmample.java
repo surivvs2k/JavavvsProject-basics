@@ -86,3 +86,15 @@ public class thisEmample {
 	}
 
 }
+
+
+/*
+Output:
+sum of a+b :50
+sum of a+b :330
+sum of a+b+c :130
+sum of a+b :65.5
+Raj Tej
+Rama  Krishna
+Tarun marks are :Tarun 80 Varun marks are :Varun 90
+*/
