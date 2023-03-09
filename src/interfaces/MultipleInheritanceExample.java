@@ -36,3 +36,10 @@ public class MultipleInheritanceExample implements M,N
 	}
 
 }
+
+
+/*
+Output:
+10
+20
+*/
